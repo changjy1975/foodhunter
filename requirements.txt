@@ -1,0 +1,6 @@
+streamlit
+googlemaps
+pandas
+streamlit-js-eval
+streamlit-folium
+folium
